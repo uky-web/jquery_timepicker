@@ -1,0 +1,6 @@
+name: jquery.timepicker polyfill
+type: module
+description: Polyfill for html5 time fields
+core_version_requirement: ^9.4 || ^10
+package: NewCity
+configure: jquery_timepicker.settings
